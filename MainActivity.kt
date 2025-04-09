@@ -1,0 +1,1 @@
+// TODO: MainActivity with Compose navigation and Firebase init
