@@ -1,0 +1,1 @@
+// TODO: Implement SignUpScreen UI with Firebase auth
